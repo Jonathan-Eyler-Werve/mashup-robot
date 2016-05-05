@@ -5,3 +5,8 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Response.create(message: "foo 1")
+Response.create(message: "foo 2")
+Response.create(message: "foo 3")
+Response.create(message: "foo 4")
